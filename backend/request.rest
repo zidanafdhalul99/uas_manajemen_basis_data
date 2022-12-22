@@ -1,0 +1,43 @@
+GET http://localhost:5000/items
+
+###
+PATCH http://localhost:5000/items/639c4873814b3293bbe94caf
+Content-Type: application/json
+
+{
+    "merk" : "nur",
+    "harga" : 1234,
+    "tgl" : "2022-12-22"
+
+}
+###
+
+POST http://localhost:5000/items/
+Content-Type: application/json
+
+{
+    "merk" : "nur 1",
+    "harga" : 1234,
+    "tgl" : "2022-12-22"
+
+}
+
+###
+
+DELETE http://localhost:5000/items/638fee506fe13085dcf0dc7e
+
+###
+GET http://localhost:5000/orders
+
+###
+POST http://localhost:5000/orders
+Content-Type: application/json
+
+{
+    "tanggal" : "2022-12-18",
+    "merk" : "Zidan 1",
+    "jumlah" : 10,
+    "harga_beli" : 1000,
+    "harga_jual" : 2000
+
+}
