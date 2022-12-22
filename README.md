@@ -12,9 +12,11 @@
 
 ### Connect & Membuat Collection dengan MongoDB Compass
 - Connect ke database localhost
+<br>
 ![image](https://user-images.githubusercontent.com/112912912/209100565-3fbc2f87-cc88-46b0-9f5b-1b285b835719.png)
 
 - Membuat database dan 1 collection
+<br>
 ![image](https://user-images.githubusercontent.com/112912912/209100712-a462f6cf-6578-416e-82e8-bf3f3621273f.png)
  
 ### Download Aplikasi Fullstack
@@ -22,4 +24,5 @@
 
 ### Beberapa Endpoints (selengkapnya ada di dalam folder backend)
 ![image](https://user-images.githubusercontent.com/112912912/209101309-f8bf93f7-2b30-415f-b78a-cb580db941b5.png)
+<br>
 ![image](https://user-images.githubusercontent.com/112912912/209101424-8d8ced8c-08c0-4808-9203-b38d45e826f5.png)
